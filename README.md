@@ -1,2 +1,5 @@
 # template-engine-py
-Zero-dependency Python implementation.
+
+Minimal template engine with variables, loops, and conditionals
+
+Zero-dependency Python. Stdlib only.
