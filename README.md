@@ -1,1 +1,2 @@
-# template-engine-py\n\nZero-dependency Python CLI.\n\n```bash\npython3 template_engine.py\n```\n
+# template-engine-py
+Zero-dependency Python implementation.
